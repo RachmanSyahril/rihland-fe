@@ -135,7 +135,7 @@ export default function BlueThemedWebsite() {
           <div className="flex justify-between items-center h-16">
             <div className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-cyan-400 bg-clip-text text-transparent">
               <Image
-                src="/images/web-rihland-2.png"
+                src="/rihland-fe/images/web-rihland-2.png"
                 alt="logo"
                 width={194}
                 height={44}
